@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingAPI", "BookingAPI\BookingAPI.csproj", "{177933E7-9A68-4754-882E-B81D795E93BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingAPI.IntegrationTests", "BookingAPI.IntegrationTests\BookingAPI.IntegrationTests.csproj", "{200B47DF-6BCB-48FE-A348-C7423D082D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingAPI.PerformanceTests", "BookingAPI.PerformanceTests\BookingAPI.PerformanceTests.csproj", "{DDE262DD-231E-4FD5-A42B-D330A047E977}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{735F9553-C676-409F-95CA-B8E1552B1577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{177933E7-9A68-4754-882E-B81D795E93BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177933E7-9A68-4754-882E-B81D795E93BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177933E7-9A68-4754-882E-B81D795E93BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177933E7-9A68-4754-882E-B81D795E93BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200B47DF-6BCB-48FE-A348-C7423D082D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200B47DF-6BCB-48FE-A348-C7423D082D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200B47DF-6BCB-48FE-A348-C7423D082D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200B47DF-6BCB-48FE-A348-C7423D082D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE262DD-231E-4FD5-A42B-D330A047E977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE262DD-231E-4FD5-A42B-D330A047E977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE262DD-231E-4FD5-A42B-D330A047E977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE262DD-231E-4FD5-A42B-D330A047E977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{200B47DF-6BCB-48FE-A348-C7423D082D78} = {735F9553-C676-409F-95CA-B8E1552B1577}
+		{DDE262DD-231E-4FD5-A42B-D330A047E977} = {735F9553-C676-409F-95CA-B8E1552B1577}
+	EndGlobalSection
+EndGlobal

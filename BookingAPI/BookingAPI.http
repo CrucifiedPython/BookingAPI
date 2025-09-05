@@ -1,0 +1,29 @@
+@BookingAPI_HostAddress = http://localhost:5177
+
+POST {{BookingAPI_HostAddress}}/api/available-homes
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Test Home 1",
+  "availableSlots": ["2025-09-02","2025-09-03","2025-09-04"]
+}
+
+###
+
+POST {{BookingAPI_HostAddress}}/api/available-homes
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Test Home 2",
+  "availableSlots": ["2025-09-02","2025-09-04","2025-09-05"]
+}
+
+###
+
+@StartDate = 2025-09-02
+@EndDate = 2025-09-03
+
+GET {{BookingAPI_HostAddress}}/api/available-homes?startDate={{StartDate}}&endDate={{EndDate}}
+Accept: application/json

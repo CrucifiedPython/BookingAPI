@@ -1,0 +1,50 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AActionMethodExecutor_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F294078ecfce6fdb942ecfee089f09717de7a6fcfe5efd9fdb6f4f93c0fb4813_003FActionMethodExecutor_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAsyncValueTaskMethodBuilderT_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F1e8feaadf5c3fa14d36ea2a638c432a2e1a47b7837d8b83d88303c5d9c15cf_003FAsyncValueTaskMethodBuilderT_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ACallSiteRuntimeResolver_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F3751f63369d883c5ea470ed57be8df2515b62dde23c49b86e1bbaf8c27b_003FCallSiteRuntimeResolver_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ACallSiteVisitor_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Ff789418437d3db4a3ae92758c424f20616c8716db4a4c98e740af36d4cde1_003FCallSiteVisitor_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AControllerActionInvoker_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F879e3173b4f82be9a07b4366bcbf46161cc43f2bd9e494df2d923810e3c48_003FControllerActionInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADateOnly_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fb7bf1a4162ee5b47e01ff05d38423e295c7bbb45f3c7b3b77ab51d949e7e741b_003FDateOnly_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADateOnly_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fb7bf1a4162ee5b47e01ff05d38423e295c7bbb45f3c7b3b77ab51d949e7e741b_003FDateOnly_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AExceptionContext_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F7b6f5afd14294deca1dcd120fcd18f2a67634e98bb5f27fc79666f3f7634a9a_003FExceptionContext_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMethodBaseInvoker_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F69ba5438e03a0e3a5d2f133f37405f9e32f9e0abb1fbe0a8cb7145514ff85f_003FMethodBaseInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AServiceProviderServiceExtensions_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F621526284d3e4868b98948aff942206525763e57e194a27623b66c384466_003FServiceProviderServiceExtensions_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ATestInvoker_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F5e14a4e27990972fa4ae94975603bd298aaf328ee083c03b10569ee4724d57_003FTestInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22a75e8a_002Dc75a_002D4112_002Dbabd_002D6ee6c945edb3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAvailableHomes_WithValidDateRange_ReturnsOkWithHomes #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::200B47DF-6BCB-48FE-A348-C7423D082D78::net9.0::BookingAPI.Tests.HomesControllerIntegrationTests.GetAvailableHomes_WithValidDateRange_ReturnsOkWithHomes&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2a0c648e_002D427c_002D4ae7_002D85ef_002Dab33b5be34ef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAvailableHomes_WithValidDateRange_ReturnsOkWithHomes #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::200B47DF-6BCB-48FE-A348-C7423D082D78::net9.0::BookingAPI.Tests.HomesControllerIntegrationTests.GetAvailableHomes_WithValidDateRange_ReturnsOkWithHomes&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5812b0f8_002D635f_002D4041_002D9da9_002D622efad9e169/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAvailableHomes_WithValidDateRange_ReturnsOkWithHomes" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::200B47DF-6BCB-48FE-A348-C7423D082D78::net9.0::BookingAPI.Tests.HomesControllerIntegrationTests.GetAvailableHomes_WithValidDateRange_ReturnsOkWithHomes&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c9b3110_002D642e_002D4e07_002D9585_002D6f0d48eb839d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAvailableHomes_WithValidDateRange_ReturnsOkWithHomes #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::200B47DF-6BCB-48FE-A348-C7423D082D78::net9.0::BookingAPI.Tests.HomesControllerIntegrationTests.FindAvailableHomes_ReturnsOnlyHomesThatMatchDateRange&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c1d6e000_002Dbd8e_002D43dc_002D9301_002Dff213f7e134b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAvailableHomes_WithValidDateRange_ReturnsOkWithHomes #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::200B47DF-6BCB-48FE-A348-C7423D082D78::net9.0::BookingAPI.Tests.HomesControllerIntegrationTests.FindAvailableHomes_ReturnsOnlyHomesThatMatchDateRange&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dfe343fd_002D3aa5_002D4144_002D91c5_002D3ce6a983e964/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAvailableHomes_100kHomes_PerformanceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::DDE262DD-231E-4FD5-A42B-D330A047E977::net9.0::BookingAPI.PerformanceTests.PerformanceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::200B47DF-6BCB-48FE-A348-C7423D082D78::net9.0::BookingAPI.Tests.HomesControllerIntegrationTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f7fbc38f_002D9854_002D43f6_002Db6c3_002Deba2b43ed44e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FindAvailableHomes_ReturnsOnlyHomesThatMatchDateRange" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::200B47DF-6BCB-48FE-A348-C7423D082D78::net9.0::BookingAPI.Tests.HomesControllerIntegrationTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DDE262DD-231E-4FD5-A42B-D330A047E977::net9.0::BookingAPI.PerformanceTests.PerformanceHomeTests.Benchmark_GetAvailableHomesAsync_100kHomes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DDE262DD-231E-4FD5-A42B-D330A047E977::net9.0::BookingAPI.PerformanceTests.PerformanceTests.GetAvailableHomes_100kHomes_PerformanceTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
